@@ -12,15 +12,14 @@ from Jams.config import *
 
 
 class playerCrawler(threading.Thread):
-    def __init__(self,q,player_list):
+    def __init__(self,q,player_list,name):
         threading.Thread.__init__(self)
         self.q = q
+        self.name = name
         #self.url = self.q.get()
         self.player_list = player_list
         print("new a palyer thread")
     def run(self):
-        #self.get_data()
-        #global data_q
         while True :
             url = self.q.get()
             if url is None:
@@ -32,7 +31,10 @@ class playerCrawler(threading.Thread):
                 for player_name in self.player_list:
                     data = self.get_player(player_name,url)
                     if(data != None):
-                        data_q.put(data)
+                        if(self.name == "东部"):
+                            data_q_east.put(data)
+                        else:
+                            data_q_west.put(data)
 
     def get_lxml(self,url):
         #print("get lxml")

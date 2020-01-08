@@ -11,8 +11,14 @@ game_type = game_types["regular"]
 target_players = ["勒布朗-詹姆斯"]
 #目标球队所在球队list
 target_teams = "骑士"
+
 #存放每一场次的URL
 link_q = queue.Queue()
+#存放东部url
+east_link_q = queue.Queue()
+#存放西部url
+west_link_q = queue.Queue()
+
 #存放球员数据
 data_q = queue.Queue()
 #东部球队list

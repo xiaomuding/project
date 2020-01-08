@@ -31,12 +31,12 @@ def get_link(org_url):
         link = game_link['href']
         if (target_teams in text):
             #link_q.put("http://www.stat-nba.com/" + link)
-            print(text)
+            #print(text)
             text_list = text.split("-")
-            print(text_list)
+            #print(text_list)
             for t in text_list:
                 tem = re.findall(r"\D*",t)
-                print(tem)
+                #print(tem)
                 while '' in tem:
                     tem.remove('')
                 enemy = ''.join(tem)
@@ -45,12 +45,14 @@ def get_link(org_url):
                     continue
                 elif(enemy in east_team):
                     print("东部对手")
+                    east_link_q.put("http://www.stat-nba.com/" + link)
                 else:
                     print("西部对手")
+                    west_link_q.put("http://www.stat-nba.com/" + link)
 
 
 #test
-get_link("http://www.stat-nba.com/gameList_simple-2008-04.html")
+#get_link("http://www.stat-nba.com/gameList_simple-2008-04.html")
 
 
 
