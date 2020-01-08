@@ -1,0 +1,8 @@
+test_minus (test_mathfunc.TestMathFunc) ... ok
+test_divide (test_mathfunc.TestMathFunc) ... ok
+test_add (test_mathfunc.TestMathFunc) ... skipped "I don't want to run this case."
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK (skipped=1)

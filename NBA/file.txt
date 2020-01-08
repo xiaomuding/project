@@ -1,0 +1,447 @@
+http://www.stat-nba.com/game/17437.html
+
+C:\Users\C5269089\AppData\Local\Programs\Python\Python36-32\python.exe C:/python/project/old/NBA.py
+[<tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row0"><a href="/player/1687.html" target="_blank">阿伦-艾弗森</a></td>
+<td class="current gs change_color col1 row0" rank="1">1</td>
+<td class="normal mp change_color col2 row0" rank="52">52</td>
+<td class="normal fgper change_color col3 row0" rank="0.439024390243902">43.9%</td>
+<td class="normal fg change_color col4 row0" rank="18">18</td>
+<td class="normal fga change_color col5 row0" rank="41">41</td>
+<td class="normal threepper change_color col6 row0" rank="0.375">37.5%</td>
+<td class="normal threep change_color col7 row0" rank="3">3</td>
+<td class="normal threepa change_color col8 row0" rank="8">8</td>
+<td class="normal ftper change_color col9 row0" rank="1">100.0%</td>
+<td class="normal ft change_color col10 row0" rank="9">9</td>
+<td class="normal fta change_color col11 row0" rank="9">9</td>
+<td class="normal ts change_color col12 row0" rank="0.53380782918149">53.4%</td>
+<td class="normal trb change_color col13 row0" rank="5">5</td>
+<td class="normal orb change_color col14 row0" rank="2">2</td>
+<td class="normal drb change_color col15 row0" rank="3">3</td>
+<td class="normal ast change_color col16 row0" rank="6">6</td>
+<td class="normal stl change_color col17 row0" rank="5">5</td>
+<td class="normal blk change_color col18 row0" rank="0">0</td>
+<td class="normal tov change_color col19 row0" rank="3">3</td>
+<td class="normal pf change_color col20 row0" rank="0">0</td>
+<td class="normal pts change_color col21 row0" rank="48">48</td>
+</tr>,
+
+
+
+
+
+
+
+
+<tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row1"><a href="/player/2213.html" target="_blank">迪坎贝-穆托姆博</a></td>
+<td class="current gs change_color col1 row1" rank="1">1</td>
+<td class="normal mp change_color col2 row1" rank="44">44</td>
+<td class="normal fgper change_color col3 row1" rank="0.571428571428571">57.1%</td>
+<td class="normal fg change_color col4 row1" rank="4">4</td>
+<td class="normal fga change_color col5 row1" rank="7">7</td>
+<td class="normal threepper change_color col6 row1" rank="-1"> </td>
+<td class="normal threep change_color col7 row1" rank="0">0</td>
+<td class="normal threepa change_color col8 row1" rank="0">0</td>
+<td class="normal ftper change_color col9 row1" rank="0.7142857142857141">71.4%</td>
+<td class="normal ft change_color col10 row1" rank="5">5</td>
+<td class="normal fta change_color col11 row1" rank="7">7</td>
+<td class="normal ts change_color col12 row1" rank="0.64484126984127">64.5%</td>
+<td class="normal trb change_color col13 row1" rank="16">16</td>
+<td class="normal orb change_color col14 row1" rank="5">5</td>
+<td class="normal drb change_color col15 row1" rank="11">11</td>
+<td class="normal ast change_color col16 row1" rank="0">0</td>
+<td class="normal stl change_color col17 row1" rank="0">0</td>
+<td class="normal blk change_color col18 row1" rank="5">5</td>
+<td class="normal tov change_color col19 row1" rank="0">0</td>
+<td class="normal pf change_color col20 row1" rank="5">5</td>
+<td class="normal pts change_color col21 row1" rank="13">13</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row2"><a href="/player/2403.html" target="_blank">阿隆-麦基</a></td>
+<td class="current gs change_color col1 row2" rank="1">1</td>
+<td class="normal mp change_color col2 row2" rank="51">51</td>
+<td class="normal fgper change_color col3 row2" rank="0.428571428571429">42.9%</td>
+<td class="normal fg change_color col4 row2" rank="3">3</td>
+<td class="normal fga change_color col5 row2" rank="7">7</td>
+<td class="normal threepper change_color col6 row2" rank="1">100.0%</td>
+<td class="normal threep change_color col7 row2" rank="1">1</td>
+<td class="normal threepa change_color col8 row2" rank="1">1</td>
+<td class="normal ftper change_color col9 row2" rank="1">100.0%</td>
+<td class="normal ft change_color col10 row2" rank="2">2</td>
+<td class="normal fta change_color col11 row2" rank="2">2</td>
+<td class="normal ts change_color col12 row2" rank="0.57106598984772">57.1%</td>
+<td class="normal trb change_color col13 row2" rank="7">7</td>
+<td class="normal orb change_color col14 row2" rank="2">2</td>
+<td class="normal drb change_color col15 row2" rank="5">5</td>
+<td class="normal ast change_color col16 row2" rank="9">9</td>
+<td class="normal stl change_color col17 row2" rank="2">2</td>
+<td class="normal blk change_color col18 row2" rank="1">1</td>
+<td class="normal tov change_color col19 row2" rank="5">5</td>
+<td class="normal pf change_color col20 row2" rank="1">1</td>
+<td class="normal pts change_color col21 row2" rank="9">9</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row3"><a href="/player/1496.html" target="_blank">特伊隆-希尔</a></td>
+<td class="current gs change_color col1 row3" rank="1">1</td>
+<td class="normal mp change_color col2 row3" rank="40">40</td>
+<td class="normal fgper change_color col3 row3" rank="0.16666666666666702">16.7%</td>
+<td class="normal fg change_color col4 row3" rank="1">1</td>
+<td class="normal fga change_color col5 row3" rank="6">6</td>
+<td class="normal threepper change_color col6 row3" rank="-1"> </td>
+<td class="normal threep change_color col7 row3" rank="0">0</td>
+<td class="normal threepa change_color col8 row3" rank="0">0</td>
+<td class="normal ftper change_color col9 row3" rank="1">100.0%</td>
+<td class="normal ft change_color col10 row3" rank="2">2</td>
+<td class="normal fta change_color col11 row3" rank="2">2</td>
+<td class="normal ts change_color col12 row3" rank="0.2906976744186">29.1%</td>
+<td class="normal trb change_color col13 row3" rank="6">6</td>
+<td class="normal orb change_color col14 row3" rank="1">1</td>
+<td class="normal drb change_color col15 row3" rank="5">5</td>
+<td class="normal ast change_color col16 row3" rank="0">0</td>
+<td class="normal stl change_color col17 row3" rank="0">0</td>
+<td class="normal blk change_color col18 row3" rank="1">1</td>
+<td class="normal tov change_color col19 row3" rank="3">3</td>
+<td class="normal pf change_color col20 row3" rank="3">3</td>
+<td class="normal pts change_color col21 row3" rank="4">4</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row4"><a href="/player/1741.html" target="_blank">朱梅因-琼斯</a></td>
+<td class="current gs change_color col1 row4" rank="1">1</td>
+<td class="normal mp change_color col2 row4" rank="11">11</td>
+<td class="normal fgper change_color col3 row4" rank="0.666666666666667">66.7%</td>
+<td class="normal fg change_color col4 row4" rank="2">2</td>
+<td class="normal fga change_color col5 row4" rank="3">3</td>
+<td class="normal threepper change_color col6 row4" rank="0">0.0%</td>
+<td class="normal threep change_color col7 row4" rank="0">0</td>
+<td class="normal threepa change_color col8 row4" rank="1">1</td>
+<td class="normal ftper change_color col9 row4" rank="-1"> </td>
+<td class="normal ft change_color col10 row4" rank="0">0</td>
+<td class="normal fta change_color col11 row4" rank="0">0</td>
+<td class="normal ts change_color col12 row4" rank="0.66666666666667">66.7%</td>
+<td class="normal trb change_color col13 row4" rank="0">0</td>
+<td class="normal orb change_color col14 row4" rank="0">0</td>
+<td class="normal drb change_color col15 row4" rank="0">0</td>
+<td class="normal ast change_color col16 row4" rank="0">0</td>
+<td class="normal stl change_color col17 row4" rank="0">0</td>
+<td class="normal blk change_color col18 row4" rank="1">1</td>
+<td class="normal tov change_color col19 row4" rank="0">0</td>
+<td class="normal pf change_color col20 row4" rank="1">1</td>
+<td class="normal pts change_color col21 row4" rank="4">4</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row5"><a href="/player/3255.html" target="_blank">埃里克-斯诺</a></td>
+<td class="current gs change_color col1 row5" rank="0">0</td>
+<td class="normal mp change_color col2 row5" rank="31">31</td>
+<td class="normal fgper change_color col3 row5" rank="0.5">50.0%</td>
+<td class="normal fg change_color col4 row5" rank="5">5</td>
+<td class="normal fga change_color col5 row5" rank="10">10</td>
+<td class="normal threepper change_color col6 row5" rank="0">0.0%</td>
+<td class="normal threep change_color col7 row5" rank="0">0</td>
+<td class="normal threepa change_color col8 row5" rank="1">1</td>
+<td class="normal ftper change_color col9 row5" rank="1">100.0%</td>
+<td class="normal ft change_color col10 row5" rank="3">3</td>
+<td class="normal fta change_color col11 row5" rank="3">3</td>
+<td class="normal ts change_color col12 row5" rank="0.57420494699647">57.4%</td>
+<td class="normal trb change_color col13 row5" rank="4">4</td>
+<td class="normal orb change_color col14 row5" rank="0">0</td>
+<td class="normal drb change_color col15 row5" rank="4">4</td>
+<td class="normal ast change_color col16 row5" rank="5">5</td>
+<td class="normal stl change_color col17 row5" rank="0">0</td>
+<td class="normal blk change_color col18 row5" rank="0">0</td>
+<td class="normal tov change_color col19 row5" rank="5">5</td>
+<td class="normal pf change_color col20 row5" rank="2">2</td>
+<td class="normal pts change_color col21 row5" rank="13">13</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row6"><a href="/player/1346.html" target="_blank">马特-盖革</a></td>
+<td class="current gs change_color col1 row6" rank="0">0</td>
+<td class="normal mp change_color col2 row6" rank="14">14</td>
+<td class="normal fgper change_color col3 row6" rank="0.7142857142857141">71.4%</td>
+<td class="normal fg change_color col4 row6" rank="5">5</td>
+<td class="normal fga change_color col5 row6" rank="7">7</td>
+<td class="normal threepper change_color col6 row6" rank="-1"> </td>
+<td class="normal threep change_color col7 row6" rank="0">0</td>
+<td class="normal threepa change_color col8 row6" rank="0">0</td>
+<td class="normal ftper change_color col9 row6" rank="-1"> </td>
+<td class="normal ft change_color col10 row6" rank="0">0</td>
+<td class="normal fta change_color col11 row6" rank="0">0</td>
+<td class="normal ts change_color col12 row6" rank="0.71428571428571">71.4%</td>
+<td class="normal trb change_color col13 row6" rank="0">0</td>
+<td class="normal orb change_color col14 row6" rank="0">0</td>
+<td class="normal drb change_color col15 row6" rank="0">0</td>
+<td class="normal ast change_color col16 row6" rank="0">0</td>
+<td class="normal stl change_color col17 row6" rank="1">1</td>
+<td class="normal blk change_color col18 row6" rank="0">0</td>
+<td class="normal tov change_color col19 row6" rank="1">1</td>
+<td class="normal pf change_color col20 row6" rank="6">6</td>
+<td class="normal pts change_color col21 row6" rank="10">10</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row7"><a href="/player/418.html" target="_blank">拉加-贝尔</a></td>
+<td class="current gs change_color col1 row7" rank="0">0</td>
+<td class="normal mp change_color col2 row7" rank="19">19</td>
+<td class="normal fgper change_color col3 row7" rank="1">100.0%</td>
+<td class="normal fg change_color col4 row7" rank="2">2</td>
+<td class="normal fga change_color col5 row7" rank="2">2</td>
+<td class="normal threepper change_color col6 row7" rank="-1"> </td>
+<td class="normal threep change_color col7 row7" rank="0">0</td>
+<td class="normal threepa change_color col8 row7" rank="0">0</td>
+<td class="normal ftper change_color col9 row7" rank="1">100.0%</td>
+<td class="normal ft change_color col10 row7" rank="2">2</td>
+<td class="normal fta change_color col11 row7" rank="2">2</td>
+<td class="normal ts change_color col12 row7" rank="1.0416666666667">104.2%</td>
+<td class="normal trb change_color col13 row7" rank="4">4</td>
+<td class="normal orb change_color col14 row7" rank="1">1</td>
+<td class="normal drb change_color col15 row7" rank="3">3</td>
+<td class="normal ast change_color col16 row7" rank="1">1</td>
+<td class="normal stl change_color col17 row7" rank="2">2</td>
+<td class="normal blk change_color col18 row7" rank="0">0</td>
+<td class="normal tov change_color col19 row7" rank="1">1</td>
+<td class="normal pf change_color col20 row7" rank="2">2</td>
+<td class="normal pts change_color col21 row7" rank="6">6</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row8"><a href="/player/2576.html" target="_blank">托德-麦克洛奇</a></td>
+<td class="current gs change_color col1 row8" rank="0">0</td>
+<td class="normal mp change_color col2 row8" rank="2">2</td>
+<td class="normal fgper change_color col3 row8" rank="-1"> </td>
+<td class="normal fg change_color col4 row8" rank="0">0</td>
+<td class="normal fga change_color col5 row8" rank="0">0</td>
+<td class="normal threepper change_color col6 row8" rank="-1"> </td>
+<td class="normal threep change_color col7 row8" rank="0">0</td>
+<td class="normal threepa change_color col8 row8" rank="0">0</td>
+<td class="normal ftper change_color col9 row8" rank="-1"> </td>
+<td class="normal ft change_color col10 row8" rank="0">0</td>
+<td class="normal fta change_color col11 row8" rank="0">0</td>
+<td class="normal ts change_color col12 row8" rank="0"> </td>
+<td class="normal trb change_color col13 row8" rank="0">0</td>
+<td class="normal orb change_color col14 row8" rank="0">0</td>
+<td class="normal drb change_color col15 row8" rank="0">0</td>
+<td class="normal ast change_color col16 row8" rank="0">0</td>
+<td class="normal stl change_color col17 row8" rank="0">0</td>
+<td class="normal blk change_color col18 row8" rank="0">0</td>
+<td class="normal tov change_color col19 row8" rank="0">0</td>
+<td class="normal pf change_color col20 row8" rank="1">1</td>
+<td class="normal pts change_color col21 row8" rank="0">0</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row9"><a href="/player/2692.html" target="_blank">凯文-奥利</a></td>
+<td class="current gs change_color col1 row9" rank="0">0</td>
+<td class="normal mp change_color col2 row9" rank="1">1</td>
+<td class="normal fgper change_color col3 row9" rank="-1"> </td>
+<td class="normal fg change_color col4 row9" rank="0">0</td>
+<td class="normal fga change_color col5 row9" rank="0">0</td>
+<td class="normal threepper change_color col6 row9" rank="-1"> </td>
+<td class="normal threep change_color col7 row9" rank="0">0</td>
+<td class="normal threepa change_color col8 row9" rank="0">0</td>
+<td class="normal ftper change_color col9 row9" rank="-1"> </td>
+<td class="normal ft change_color col10 row9" rank="0">0</td>
+<td class="normal fta change_color col11 row9" rank="0">0</td>
+<td class="normal ts change_color col12 row9" rank="0"> </td>
+<td class="normal trb change_color col13 row9" rank="0">0</td>
+<td class="normal orb change_color col14 row9" rank="0">0</td>
+<td class="normal drb change_color col15 row9" rank="0">0</td>
+<td class="normal ast change_color col16 row9" rank="0">0</td>
+<td class="normal stl change_color col17 row9" rank="0">0</td>
+<td class="normal blk change_color col18 row9" rank="0">0</td>
+<td class="normal tov change_color col19 row9" rank="0">0</td>
+<td class="normal pf change_color col20 row9" rank="0">0</td>
+<td class="normal pts change_color col21 row9" rank="0">0</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row0"><a href="/player/2716.html" target="_blank">沙奎尔-奥尼尔</a></td>
+<td class="current gs change_color col1 row0" rank="1">1</td>
+<td class="normal mp change_color col2 row0" rank="52">52</td>
+<td class="normal fgper change_color col3 row0" rank="0.607142857142857">60.7%</td>
+<td class="normal fg change_color col4 row0" rank="17">17</td>
+<td class="normal fga change_color col5 row0" rank="28">28</td>
+<td class="normal threepper change_color col6 row0" rank="-1"> </td>
+<td class="normal threep change_color col7 row0" rank="0">0</td>
+<td class="normal threepa change_color col8 row0" rank="0">0</td>
+<td class="normal ftper change_color col9 row0" rank="0.45454545454545403">45.5%</td>
+<td class="normal ft change_color col10 row0" rank="10">10</td>
+<td class="normal fta change_color col11 row0" rank="22">22</td>
+<td class="normal ts change_color col12 row0" rank="0.58386411889597">58.4%</td>
+<td class="normal trb change_color col13 row0" rank="20">20</td>
+<td class="normal orb change_color col14 row0" rank="6">6</td>
+<td class="normal drb change_color col15 row0" rank="14">14</td>
+<td class="normal ast change_color col16 row0" rank="5">5</td>
+<td class="normal stl change_color col17 row0" rank="1">1</td>
+<td class="normal blk change_color col18 row0" rank="0">0</td>
+<td class="normal tov change_color col19 row0" rank="4">4</td>
+<td class="normal pf change_color col20 row0" rank="3">3</td>
+<td class="normal pts change_color col21 row0" rank="44">44</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row1"><a href="/player/1093.html" target="_blank">里克-福克斯</a></td>
+<td class="current gs change_color col1 row1" rank="1">1</td>
+<td class="normal mp change_color col2 row1" rank="44">44</td>
+<td class="normal fgper change_color col3 row1" rank="0.583333333333333">58.3%</td>
+<td class="normal fg change_color col4 row1" rank="7">7</td>
+<td class="normal fga change_color col5 row1" rank="12">12</td>
+<td class="normal threepper change_color col6 row1" rank="0.5">50.0%</td>
+<td class="normal threep change_color col7 row1" rank="3">3</td>
+<td class="normal threepa change_color col8 row1" rank="6">6</td>
+<td class="normal ftper change_color col9 row1" rank="1">100.0%</td>
+<td class="normal ft change_color col10 row1" rank="2">2</td>
+<td class="normal fta change_color col11 row1" rank="2">2</td>
+<td class="normal ts change_color col12 row1" rank="0.73757763975155">73.8%</td>
+<td class="normal trb change_color col13 row1" rank="7">7</td>
+<td class="normal orb change_color col14 row1" rank="1">1</td>
+<td class="normal drb change_color col15 row1" rank="6">6</td>
+<td class="normal ast change_color col16 row1" rank="5">5</td>
+<td class="normal stl change_color col17 row1" rank="2">2</td>
+<td class="normal blk change_color col18 row1" rank="1">1</td>
+<td class="normal tov change_color col19 row1" rank="4">4</td>
+<td class="normal pf change_color col20 row1" rank="3">3</td>
+<td class="normal pts change_color col21 row1" rank="19">19</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row2"><a href="/player/195.html" target="_blank">科比-布莱恩特</a></td>
+<td class="current gs change_color col1 row2" rank="1">1</td>
+<td class="normal mp change_color col2 row2" rank="52">52</td>
+<td class="normal fgper change_color col3 row2" rank="0.318181818181818">31.8%</td>
+<td class="normal fg change_color col4 row2" rank="7">7</td>
+<td class="normal fga change_color col5 row2" rank="22">22</td>
+<td class="normal threepper change_color col6 row2" rank="-1"> </td>
+<td class="normal threep change_color col7 row2" rank="0">0</td>
+<td class="normal threepa change_color col8 row2" rank="0">0</td>
+<td class="normal ftper change_color col9 row2" rank="1">100.0%</td>
+<td class="normal ft change_color col10 row2" rank="1">1</td>
+<td class="normal fta change_color col11 row2" rank="1">1</td>
+<td class="normal ts change_color col12 row2" rank="0.33422459893048">33.4%</td>
+<td class="normal trb change_color col13 row2" rank="3">3</td>
+<td class="normal orb change_color col14 row2" rank="0">0</td>
+<td class="normal drb change_color col15 row2" rank="3">3</td>
+<td class="normal ast change_color col16 row2" rank="5">5</td>
+<td class="normal stl change_color col17 row2" rank="1">1</td>
+<td class="normal blk change_color col18 row2" rank="3">3</td>
+<td class="normal tov change_color col19 row2" rank="6">6</td>
+<td class="normal pf change_color col20 row2" rank="4">4</td>
+<td class="normal pts change_color col21 row2" rank="15">15</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row3"><a href="/player/1265.html" target="_blank">霍雷斯-格兰特</a></td>
+<td class="current gs change_color col1 row3" rank="1">1</td>
+<td class="normal mp change_color col2 row3" rank="27">27</td>
+<td class="normal fgper change_color col3 row3" rank="0.272727272727273">27.3%</td>
+<td class="normal fg change_color col4 row3" rank="3">3</td>
+<td class="normal fga change_color col5 row3" rank="11">11</td>
+<td class="normal threepper change_color col6 row3" rank="-1"> </td>
+<td class="normal threep change_color col7 row3" rank="0">0</td>
+<td class="normal threepa change_color col8 row3" rank="0">0</td>
+<td class="normal ftper change_color col9 row3" rank="1">100.0%</td>
+<td class="normal ft change_color col10 row3" rank="2">2</td>
+<td class="normal fta change_color col11 row3" rank="2">2</td>
+<td class="normal ts change_color col12 row3" rank="0.33670033670034">33.7%</td>
+<td class="normal trb change_color col13 row3" rank="5">5</td>
+<td class="normal orb change_color col14 row3" rank="4">4</td>
+<td class="normal drb change_color col15 row3" rank="1">1</td>
+<td class="normal ast change_color col16 row3" rank="0">0</td>
+<td class="normal stl change_color col17 row3" rank="1">1</td>
+<td class="normal blk change_color col18 row3" rank="2">2</td>
+<td class="normal tov change_color col19 row3" rank="2">2</td>
+<td class="normal pf change_color col20 row3" rank="1">1</td>
+<td class="normal pts change_color col21 row3" rank="8">8</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row4"><a href="/player/1141.html" target="_blank">德里克-费舍尔</a></td>
+<td class="current gs change_color col1 row4" rank="1">1</td>
+<td class="normal mp change_color col2 row4" rank="23">23</td>
+<td class="normal fgper change_color col3 row4" rank="0">0.0%</td>
+<td class="normal fg change_color col4 row4" rank="0">0</td>
+<td class="normal fga change_color col5 row4" rank="4">4</td>
+<td class="normal threepper change_color col6 row4" rank="0">0.0%</td>
+<td class="normal threep change_color col7 row4" rank="0">0</td>
+<td class="normal threepa change_color col8 row4" rank="1">1</td>
+<td class="normal ftper change_color col9 row4" rank="-1"> </td>
+<td class="normal ft change_color col10 row4" rank="0">0</td>
+<td class="normal fta change_color col11 row4" rank="0">0</td>
+<td class="normal ts change_color col12 row4" rank="0"> </td>
+<td class="normal trb change_color col13 row4" rank="0">0</td>
+<td class="normal orb change_color col14 row4" rank="0">0</td>
+<td class="normal drb change_color col15 row4" rank="0">0</td>
+<td class="normal ast change_color col16 row4" rank="1">1</td>
+<td class="normal stl change_color col17 row4" rank="1">1</td>
+<td class="normal blk change_color col18 row4" rank="0">0</td>
+<td class="normal tov change_color col19 row4" rank="0">0</td>
+<td class="normal pf change_color col20 row4" rank="3">3</td>
+<td class="normal pts change_color col21 row4" rank="0">0</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row5"><a href="/player/3384.html" target="_blank">布莱恩-肖</a></td>
+<td class="current gs change_color col1 row5" rank="0">0</td>
+<td class="normal mp change_color col2 row5" rank="18">18</td>
+<td class="normal fgper change_color col3 row5" rank="0.6">60.0%</td>
+<td class="normal fg change_color col4 row5" rank="3">3</td>
+<td class="normal fga change_color col5 row5" rank="5">5</td>
+<td class="normal threepper change_color col6 row5" rank="0.5">50.0%</td>
+<td class="normal threep change_color col7 row5" rank="1">1</td>
+<td class="normal threepa change_color col8 row5" rank="2">2</td>
+<td class="normal ftper change_color col9 row5" rank="-1"> </td>
+<td class="normal ft change_color col10 row5" rank="0">0</td>
+<td class="normal fta change_color col11 row5" rank="0">0</td>
+<td class="normal ts change_color col12 row5" rank="0.7">70.0%</td>
+<td class="normal trb change_color col13 row5" rank="4">4</td>
+<td class="normal orb change_color col14 row5" rank="2">2</td>
+<td class="normal drb change_color col15 row5" rank="2">2</td>
+<td class="normal ast change_color col16 row5" rank="3">3</td>
+<td class="normal stl change_color col17 row5" rank="1">1</td>
+<td class="normal blk change_color col18 row5" rank="0">0</td>
+<td class="normal tov change_color col19 row5" rank="1">1</td>
+<td class="normal pf change_color col20 row5" rank="1">1</td>
+<td class="normal pts change_color col21 row5" rank="7">7</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row6"><a href="/player/2057.html" target="_blank">泰伦-卢</a></td>
+<td class="current gs change_color col1 row6" rank="0">0</td>
+<td class="normal mp change_color col2 row6" rank="22">22</td>
+<td class="normal fgper change_color col3 row6" rank="0.666666666666667">66.7%</td>
+<td class="normal fg change_color col4 row6" rank="2">2</td>
+<td class="normal fga change_color col5 row6" rank="3">3</td>
+<td class="normal threepper change_color col6 row6" rank="1">100.0%</td>
+<td class="normal threep change_color col7 row6" rank="1">1</td>
+<td class="normal threepa change_color col8 row6" rank="1">1</td>
+<td class="normal ftper change_color col9 row6" rank="-1"> </td>
+<td class="normal ft change_color col10 row6" rank="0">0</td>
+<td class="normal fta change_color col11 row6" rank="0">0</td>
+<td class="normal ts change_color col12 row6" rank="0.83333333333333">83.3%</td>
+<td class="normal trb change_color col13 row6" rank="1">1</td>
+<td class="normal orb change_color col14 row6" rank="0">0</td>
+<td class="normal drb change_color col15 row6" rank="1">1</td>
+<td class="normal ast change_color col16 row6" rank="3">3</td>
+<td class="normal stl change_color col17 row6" rank="5">5</td>
+<td class="normal blk change_color col18 row6" rank="1">1</td>
+<td class="normal tov change_color col19 row6" rank="1">1</td>
+<td class="normal pf change_color col20 row6" rank="2">2</td>
+<td class="normal pts change_color col21 row6" rank="5">5</td>
+</tr>, <tr class="sort">
+<td style="border:0px;"></td>
+<td class="normal player_name_out change_color col0 row7"><a href="/player/1446.html" target="_blank">罗伯特-霍里</a></td>
+<td class="current gs change_color col1 row7" rank="0">0</td>
+<td class="normal mp change_color col2 row7" rank="27">27</td>
+<td class="normal fgper change_color col3 row7" rank="0.2">20.0%</td>
+<td class="normal fg change_color col4 row7" rank="1">1</td>
+<td class="normal fga change_color col5 row7" rank="5">5</td>
+<td class="normal threepper change_color col6 row7" rank="0.333333333">33.3%</td>
+<td class="normal threep change_color col7 row7" rank="1">1</td>
+<td class="normal threepa change_color col8 row7" rank="3">3</td>
+<td class="normal ftper change_color col9 row7" rank="-1"> </td>
+<td class="normal ft change_color col10 row7" rank="0">0</td>
+<td class="normal fta change_color col11 row7" rank="0">0</td>
+<td class="normal ts change_color col12 row7" rank="0.3">30.0%</td>
+<td class="normal trb change_color col13 row7" rank="4">4</td>
+<td class="normal orb change_color col14 row7" rank="3">3</td>
+<td class="normal drb change_color col15 row7" rank="1">1</td>
+<td class="normal ast change_color col16 row7" rank="1">1</td>
+<td class="normal stl change_color col17 row7" rank="2">2</td>
+<td class="normal blk change_color col18 row7" rank="2">2</td>
+<td class="normal tov change_color col19 row7" rank="1">1</td>
+<td class="normal pf change_color col20 row7" rank="5">5</td>
+<td class="normal pts change_color col21 row7" rank="3">3</td>
+</tr>]
+
+Process finished with exit code 0
