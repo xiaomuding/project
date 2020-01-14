@@ -95,6 +95,7 @@ class playerCrawler(threading.Thread):
 
         team_list_org = lxml.find_all('div', class_='teamDiv')
         print("----------")
+
         for team in team_list_org:
             team_list.append(team.find('div').find('a').text.strip())
 
