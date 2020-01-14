@@ -92,6 +92,7 @@ class playerCrawler(threading.Thread):
         score_list=[]
         team_list = []
         lxml = self.get_lxml(url)
+
         team_list_org = lxml.find_all('div', class_='teamDiv')
         print("----------")
         for team in team_list_org:
