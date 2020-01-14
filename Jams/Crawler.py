@@ -8,6 +8,8 @@ import queue
 from threading import Thread,Lock
 import threading
 from Jams.config import *
+from Jams.tooling import *
+#from Jams.tooling import judge
 
 
 
@@ -78,12 +80,37 @@ class playerCrawler(threading.Thread):
                                            class_=re.compile("normal threep change_color col7 row\d")).text.strip()
                 three_total_ball = item.find('td',
                                              class_=re.compile("normal threepa change_color col8 row\d")).text.strip()
+                winOrLose = self.judge(url)
+
                 # print(score)
                 data_list = [player_name, score, ratio_info, get_ball, total_ball, time_info, rebounds, assists, steals,
-                             blocks, error, free_get_ball, free_total_ball, three_get_ball, three_total_ball]
+                             blocks, error, free_get_ball, free_total_ball, three_get_ball, three_total_ball,winOrLose]
                 # print(data_list)
                 return data_list
 
+    def judge(self,url):
+        score_list=[]
+        team_list = []
+        lxml = self.get_lxml(url)
+        team_list_org = lxml.find_all('div', class_='teamDiv')
+        print("----------")
+        for team in team_list_org:
+            team_list.append(team.find('div').find('a').text.strip())
+
+        score_box = lxml.find_all('div', class_='score')
+        for list in score_box:
+            score_list.append(int(list.text.strip()))
+
+        if(target_teams in team_list[0]):
+            if(score_list[0] > score_list[1]):
+                return "win"
+            else:
+                return "lose"
+        else:
+            if (score_list[0] > score_list[1]):
+                return "lose"
+            else:
+                return "win"
 
 #test
 #test = playerCrawler(link_q,target_players)

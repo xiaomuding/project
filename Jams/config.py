@@ -9,7 +9,7 @@ game_type = game_types["regular"]
 
 #目标球员list
 target_players = ["勒布朗-詹姆斯"]
-#目标球队所在球队list
+#目标球队所在球队
 target_teams = "骑士"
 
 #存放每一场次的URL
