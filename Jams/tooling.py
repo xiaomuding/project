@@ -39,7 +39,7 @@ def get_csv_data(link_list,player_list):
 def get_csv(sum_data,file_name):
     test = pandas.DataFrame(data=sum_data,
                             columns=["姓名", "得分", "投篮", "命中", "出手", "时间", "篮板", "助攻", "抢断", "盖帽", "失误", "罚球命中", "罚球总数",
-                                     "三分命中", "三分出手"],
+                                     "三分命中", "三分出手","输赢"],
                             )
     test.to_csv(file_name, encoding='utf-8')
 

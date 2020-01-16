@@ -81,10 +81,11 @@ class playerCrawler(threading.Thread):
                 three_total_ball = item.find('td',
                                              class_=re.compile("normal threepa change_color col8 row\d")).text.strip()
                 winOrLose = self.judge(url)
+                RivalPart = self.name
 
                 # print(score)
                 data_list = [player_name, score, ratio_info, get_ball, total_ball, time_info, rebounds, assists, steals,
-                             blocks, error, free_get_ball, free_total_ball, three_get_ball, three_total_ball,winOrLose]
+                             blocks, error, free_get_ball, free_total_ball, three_get_ball, three_total_ball,winOrLose,RivalPart]
                 # print(data_list)
                 return data_list
 
