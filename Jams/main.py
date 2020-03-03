@@ -10,6 +10,7 @@ import time
 import pandas
 import re
 from Jams.config import *
+from Jams.pool import *
 
 
 #每一年一个线程
@@ -41,10 +42,13 @@ for thread in threads_player:
 
 print("对战东部：")
 while not data_q_east.empty():
-    print(data_q_east.get())
+    update(data_q_east.get())
+    #print(data_q_east.get())
+
 
 print("对战西部：")
 while not data_q_west.empty():
-    print(data_q_west.get())
+    update(data_q_west.get())
+    #print(data_q_west.get())
 
 
