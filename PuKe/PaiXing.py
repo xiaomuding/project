@@ -36,23 +36,6 @@ def ColorNum(color):
         return 1
 
 
-def PanDuan(Pai1,Pai2,Pai3):
-    #print(Pai["num"],"****",Pai["color"])
-    tem1 = NumCompare(Pai1["num"],Pai2["num"],Pai3["num"])
-    tem2 = ColorCompare(Pai1["color"],Pai2["color"],Pai3["color"])
-    if tem1 == 3:
-        return BaoZi+Pai1["num"]*10
-    elif tem1 ==2:
-        if Pai1["num"] == Pai2["num"]:
-            return DuiZi+1000*Pai1["num"]+Pai3["num"]*10----------------做到这里了
-    elif tem1 == 8 and tem2 == 1:
-        return TongHuaShun
-    elif tem1 ==8 and tem2 == 0:
-        return ShunZi
-    elif tem1 == 0 and tem2 == 1:
-        return TongHua
-    else:
-        return DanZhang
 
 
 GetYiFuPai()
