@@ -9,7 +9,8 @@ class Wanjia():
     HuaSe1 = ""
     HuaSe2 = ""
     HuaSe3 = ""
-    def __init__(self,pai1,pai2,pai3):
+    def __init__(self,name,pai1,pai2,pai3):
+        self.name = name
         self.Pai1 = pai1
         self.Pai2 = pai2
         self.Pai3 = pai3

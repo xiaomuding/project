@@ -34,10 +34,3 @@ def ColorNum(color):
         return 2
     else:
         return 1
-
-
-
-
-GetYiFuPai()
-#print(AllPai)
-print(PanDuan(AllPai[1],AllPai[28],AllPai[37]))
