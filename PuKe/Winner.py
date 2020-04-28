@@ -7,8 +7,20 @@ class Winner:
     def __init__(self,name):
         self.name = name
     def whoWin(self,wanjia1,wanjia2): #判断大小
-        if wanjia1.PaiXing > wanjia2.PaiXing:
-            print(wanjia1.name, "WIN")
+        value1 = [wanjia1.PaiXing, wanjia1.DianShu1, wanjia1.DianShu2, wanjia1.DianShu3, wanjia1.HuaSe1, wanjia1.HuaSe2,
+                  wanjia1.HuaSe3]
+        value2 = [wanjia2.PaiXing, wanjia2.DianShu1, wanjia2.DianShu2, wanjia2.DianShu3, wanjia2.HuaSe1, wanjia2.HuaSe2,
+                  wanjia2.HuaSe3]
+        i = 0
+        while True:
+            if value1[i] > value2[i]:
+                print(wanjia1.name,"---Win")
+                break
+            elif value1[i] < value2[i]:
+                print(wanjia2.name, "---Win")
+                break
+            else:
+                i = i + 1
 
     def getYiFuPai(self,): #得到一副有顺序的牌，然后洗牌，
         for num in Num:
